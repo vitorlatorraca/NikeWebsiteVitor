@@ -1,5 +1,7 @@
 ![Nike Website Clone](NikePrint1.png)
 
+
+
 Welcome to the Apple Website Clone project! This project is a clone of the official Apple website, built using React and other necessary technologies.
 
 Project Overview
@@ -19,22 +21,6 @@ git clone https://github.com/vitorlatorraca/AppleCloneVitorLatorraca.git
 Navigate to the project directory:
 
 cd apple-website-clone
-
-Install dependencies using npm or yarn:
-
-npm install
-
-or
-yarn install
-
-Start the development server:
-
-npm start
-
-or
-yarn start
-
-Open your browser and visit http://localhost:3000 to view the Apple Website Clone.
 
 Contributing Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
