@@ -31,32 +31,3 @@ You can view the cloned website online [here](https://your-link-here.com).
 
 ```bash
 git clone https://github.com/your-username/nike-clone.git
-Navigate to the project directory:
-bash
-Copy code
-cd nike-clone
-Install the dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-Open your web browser and navigate to http://localhost:3000.
-Contributions
-Contributions are welcome! If you find issues or want to add new features, feel free to open an issue or send a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-sql
-Copy code
-
-Ensure you replace placeholders like "your-link-here.com" and "your-username" with your actual links and information.
-
-
-
-
-Message ChatGPT…
-
